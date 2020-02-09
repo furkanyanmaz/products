@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "product": "Casper via a.1",
+    "price": 2400,
+    "size": 6
+  },
+  {
+    "id": 2,
+    "product": "Lenovo gt-50",
+    "price": 1400,
+    "size": 15
+  },
+  {
+    "id": 3,
+    "product": "Galaxy e5",
+    "price": 2000,
+    "size": 8
+  },
+  {
+    "id": 4,
+    "product": "Lenovo g5-60",
+    "price": 2500,
+    "size": 16
+  },
+  {
+    "id": 5,
+    "product": "LG pro ",
+    "price": 4200,
+    "size": 90
+  }
+]
